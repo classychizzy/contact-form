@@ -1,7 +1,7 @@
 const validate= ()=>{
 
     let name= document.forms[myform][name];
-    let email= document.forms[myform][e-mail] 
+    let email= document.forms[myform][email] 
     let title= document.forms[myform][title];
     let message= document.form[myform][message];
      if(name.value ==""|| name.value.indexOf <4){
